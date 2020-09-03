@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1231
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reset_CPro", "ConsoleApp1\Reset_CPro.csproj", "{FF98A19E-668B-42CD-9A30-C17F14550B7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF98A19E-668B-42CD-9A30-C17F14550B7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF98A19E-668B-42CD-9A30-C17F14550B7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF98A19E-668B-42CD-9A30-C17F14550B7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF98A19E-668B-42CD-9A30-C17F14550B7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A36EF6C-970E-4855-AD78-6A9C23751CA7}
+	EndGlobalSection
+EndGlobal

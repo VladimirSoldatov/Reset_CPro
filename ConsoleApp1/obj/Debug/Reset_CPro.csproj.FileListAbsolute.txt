@@ -1,0 +1,7 @@
+C:\Users\vladimir.soldatov\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\Reset_CPro.csprojAssemblyReference.cache
+C:\Users\vladimir.soldatov\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\Reset_CPro.csproj.CoreCompileInputs.cache
+C:\Users\vladimir.soldatov\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Reset_CPro.exe.config
+C:\Users\vladimir.soldatov\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Reset_CPro.exe
+C:\Users\vladimir.soldatov\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Reset_CPro.pdb
+C:\Users\vladimir.soldatov\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\Reset_CPro.exe
+C:\Users\vladimir.soldatov\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\Reset_CPro.pdb
